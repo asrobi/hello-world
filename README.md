@@ -1,2 +1,3 @@
 # hello-world
-another hw repository
+Hi Humans!
+I'm just Girl, moreover French, moreover... whatever
